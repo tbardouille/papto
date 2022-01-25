@@ -1,0 +1,11 @@
+Periodic/Aperiodic Paramterization of Transient Oscillations (PAPTO)
+
+As introduced in:
+Brady, B., & Bardouille, T. (2022) Periodic/Aperiodic Parameterization of Transient Oscillations (PAPTO): Implications
+for Healthy Ageing. (Accepted to NeuroImage)
+doi: 
+
+PAPTO is a a novel algorithm to detect transient spectral events in extracranial neurophysiological recordings (MEG & EEG)
+where the spectral event properties are disambiguated from the backgorund aperiodic activity. PAPTO is an integration of the
+fooof algorithm from Donoghue et al., 2020 (https://fooof-tools.github.io/fooof/) with the spectral events detection algorithm 
+from Shin et al., 2017 (https://github.com/hs13/BetaEvents).
